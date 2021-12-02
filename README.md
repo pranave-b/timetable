@@ -171,4 +171,4 @@ Execute the program
 </html>
 ~~~
 # OUPUT
-![github logo](TIMETABLE_V1.PNG)
+![github logo](TIMETABLE_V1.png)
